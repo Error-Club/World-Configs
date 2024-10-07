@@ -1,53 +1,53 @@
 {
   "clubs": [
     {
-      "image": "",
+      "image": "Temptation.png",
       "name": "Temptation"
     },
     {
-      "image": "",
+      "image": "AfterDark.png",
       "name": "After Dark"
     },
     {
-      "image": "",
+      "image": "Venus.png",
       "name": "Venus Lounge"
     }
   ],
   "creators": [
     {
-      "image": "",
+      "image": "Wylo.png",
       "name": "Wylo"
     },
     {
-      "image": "",
+      "image": "ChirpyPenny.png",
       "name": "ChirpyPenny"
     },
     {
-      "image": "",
+      "image": "Anxi.png",
       "name": "Anxii"
     },
     {
-      "image": "",
+      "image": "Latitia.png",
       "name": "Latitia"
     },
     {
-      "image": "",
+      "image": "Silvia.png",
       "name": "Silvia"
     },
     {
-      "image": "",
+      "image": "Chanel.png",
       "name": "Chanel"
     },
     {
-      "image": "",
+      "image": "Rhysumi.png",
       "name": "Rhysumi"
     },
     {
-      "image": "",
+      "image": "SweetDj.png",
       "name": "SweetDj"
     },
     {
-      "image": "",
+      "image": "Diraccoonr.png",
       "name": "Diraccoonr"
     }
   ]
