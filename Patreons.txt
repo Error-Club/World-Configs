@@ -5,3 +5,4 @@ coke_live
 Bladi
 CypherpunkFR
 Lnko Seven
+Kirito
